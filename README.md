@@ -1,7 +1,7 @@
 
 ##### Hi there 🧑‍💻, I'm Truongg:
 
--   :mortar_board: Current working at Nestsera
+-   :mortar_board: Current working at Nestsera.com in Da Nang of VietNam
 -   :mailbox: You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:truongpd.doublenine@gmail.com)
