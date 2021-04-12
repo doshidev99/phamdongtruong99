@@ -15,8 +15,7 @@
 #### Frameworks I have used
 
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+![React-Native](https://reactnative.dev/img/header_logo.svg)
 
 ##### Some of the technologies I have worked with
 
